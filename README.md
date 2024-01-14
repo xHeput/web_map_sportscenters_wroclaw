@@ -6,3 +6,5 @@ Made by me! (Maciej)
 ## Data
 
 Came from SimpleMaps and www.geoportal.gov.pl (BDOT for Wroclaw city only)
+
+https://xheput.github.io/web_map_sportscenters_wroclaw/
